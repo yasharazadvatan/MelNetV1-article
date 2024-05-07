@@ -22,15 +22,15 @@ Please cite as:
 
    @INPROCEEDINGS{
       Azadvatan2024arXiv,
-     author={Azadvatan, Yashar and Kurt, Murat},
-     title = {MelNet: A Real-Time Deep Learning Algorithm for Object Detection},
-     journal = {arXiv preprint arXiv:2401.17972},
-     pages = {arXiv:2401.17972},
-     year = {2024},
-     month = jan,
-     eid = {arXiv:2401.17972},
-     doi = {10.48550/arXiv.2401.17972},
-     url = {https://doi.org/10.48550/arXiv.2401.17972}, 
-     archivePrefix = {arXiv},
-     eprint = {2401.17972}
-   }
+      author={Azadvatan, Yashar and Kurt, Murat},
+      title = {MelNet: A Real-Time Deep Learning Algorithm for Object Detection},
+      journal = {arXiv preprint arXiv:2401.17972},
+      pages = {arXiv:2401.17972},
+      year = {2024},
+      month = jan,
+      eid = {arXiv:2401.17972},
+      doi = {10.48550/arXiv.2401.17972},
+      url = {https://doi.org/10.48550/arXiv.2401.17972}, 
+      archivePrefix = {arXiv},
+      eprint = {2401.17972}
+      }
