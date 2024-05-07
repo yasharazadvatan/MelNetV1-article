@@ -1,5 +1,6 @@
 # MelNetV1
 A real-time single stage object detection model.
+This model is trained on KITTI dataset.
 
 # How to Use
 1. Download the checkpoint from the link below:
