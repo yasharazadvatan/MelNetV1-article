@@ -5,8 +5,8 @@ This model is trained on KITTI dataset.
 
 # How to Use
 1. Download the checkpoint from the link below:
-    https://drive.google.com/file/d/1dhrZeWM_ZzyxyDArC_jniGVSDWTxjfZc/view?usp=sharing
-   
+
+   https://drive.google.com/file/d/1dhrZeWM_ZzyxyDArC_jniGVSDWTxjfZc/view?usp=sharing
    
 3. Run the codes from MelNet-inference.ipynb in Jupyter Notebook.
 4. This codes load the dataset in YOLO format. You can see an annotation example in './dataset/valid_example/labels' folder.
