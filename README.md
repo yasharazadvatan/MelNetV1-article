@@ -20,7 +20,7 @@ Access my article from the link below:
 # Citation
 Please cite as:
 
-   @INPROCEEDINGS{
+    @INPROCEEDINGS{
       Azadvatan2024arXiv,
       author={Azadvatan, Yashar and Kurt, Murat},
       title = {MelNet: A Real-Time Deep Learning Algorithm for Object Detection},
@@ -33,4 +33,4 @@ Please cite as:
       url = {https://doi.org/10.48550/arXiv.2401.17972}, 
       archivePrefix = {arXiv},
       eprint = {2401.17972}
-      }
+    }
