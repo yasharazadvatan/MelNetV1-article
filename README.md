@@ -16,4 +16,19 @@ This model is trained on KITTI dataset.
 Access my article from the link below:
 
     https://doi.org/10.48550/arXiv.2401.17972
-    
+
+# Citation
+Please cite as:
+
+   @INPROCEEDINGS{Ferdous2021IEEE,
+  author={Azadvatan, Yashar and Kurt, Murat},
+  title = {MelNet: A Real-Time Deep Learning Algorithm for Object Detection},
+  journal = {arXiv preprint arXiv:2401.17972},
+  pages = {arXiv:2401.17972},
+  year = {2024},
+  month = jan,
+  eid = {arXiv:2401.17972},
+  doi = {10.48550/arXiv.2401.17972},
+  url = {https://doi.org/10.48550/arXiv.2401.17972}, 
+  archivePrefix = {arXiv},
+  eprint = {2401.17972}}
