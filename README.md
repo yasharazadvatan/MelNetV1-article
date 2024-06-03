@@ -1,5 +1,6 @@
 # MelNetV1
-A real-time single stage object detection model.
+MelNet: A Fast and Accurate Deep Learning Algorithm for Object
+Detection.
 This model is trained on KITTI dataset.
 
 
