@@ -1,6 +1,6 @@
-# MelNetV1
-MelNet: A Fast and Accurate Deep Learning Algorithm for Object
-Detection.
+# SiStNet
+SiStNet: A Single-Stage Convolutional Neural Network for Vehicle
+Detection
 
 # Dataset
 This model is trained on KITTI dataset.
